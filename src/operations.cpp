@@ -19,3 +19,4 @@ double power(double a, double b) {
         return 0;
     }
 }
+double module(double a, double b) { return a % b; }
