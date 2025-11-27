@@ -3,4 +3,7 @@ project(TC1033_Tarea5)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(TC1033_Tarea5 src/main.cpp)
+add_executable(TC1033_Tarea5
+        src/main.cpp
+        src/operations.cpp
+)
